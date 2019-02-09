@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CowboyMovment : MonoBehaviour {
+public class CharMovement : MonoBehaviour {
 	
 	//public float jumpPower = 5.0f;
 	public float speed = 5.0f;
